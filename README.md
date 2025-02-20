@@ -1,9 +1,14 @@
 🔹 1. Technologies utilisées
-ASP.NET Core (Razor Pages) – Développement de l'application
-HTML, CSS, Bootstrap – Interface utilisateur
-JavaScript (JS séparé) – Gestion des interactions dynamiques
-Entity Framework Core (optionnel) – Pour gérer une base de données 
-SQL Server / MySQL (optionnel) – Stockage des questions et résultats
+ASP.NET Core (Razor Pages) 
+– Développement de l'application
+HTML, CSS, Bootstrap 
+– Interface utilisateur
+JavaScript (JS séparé)
+– Gestion des interactions dynamiques
+Entity Framework Core (optionnel)
+– Pour gérer une base de données 
+SQL Server / MySQL (optionnel) 
+– Stockage des questions et résultats
 
 🔹 2. Fonctionnalités principales
 
