@@ -6,6 +6,7 @@ Entity Framework Core (optionnel) – Pour gérer une base de données si néces
 SQL Server / MySQL (optionnel) – Stockage des questions et résultats
 
 🔹 2. Fonctionnalités principales
+
 ✅ Gestion des rôles (Admin, Formateur, Étudiant)
 Admin : Gère les utilisateurs et supervise la plateforme.
 Formateur : Crée des quiz avec questions et réponses.
